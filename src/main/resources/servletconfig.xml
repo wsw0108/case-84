@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<servlets>
+    <servlet class="org.maptalks.case84.CaseServlet">
+        <urlpattern value="/case"/>
+    </servlet>
+</servlets>
